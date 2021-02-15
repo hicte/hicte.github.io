@@ -1,5 +1,5 @@
-<h3>Light Calculator</h3>
-<p>My first flutter project :)</p>
+<h2>Light Calculator</h2>
+<h4>My first flutter project :)</h4>
 <p>A simple and beautiful calculator app.</p>
 <p>
   UI adapted from 
@@ -9,7 +9,8 @@
 <p>
 <a href="https://github.com/hicte/light_calculator">Source code</a>
 </p>
+<p align="center">
 <img src="https://github.com/hicte/light_calculator/raw/main/Screenshot.jpeg" width="256" alt="Screenshot">
-<br>
+</p>
 <hr>
 
