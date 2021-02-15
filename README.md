@@ -7,5 +7,5 @@ UI adapted from [@JohannesMilke](https://github.com/JohannesMilke/calculator_ui_
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github.com/hicte/light_calculator/blob/main/Screenshot.jpeg" width="500" alt="Screenshot">
+  <img src="https://github.com/hicte/light_calculator/raw/main/Screenshot.jpeg" width="500" alt="Screenshot">
 </p>
