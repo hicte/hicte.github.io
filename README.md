@@ -1,1 +1,11 @@
-:/
+# Light Calculator
+
+### My first flutter project :)
+A simple and beautiful calculator app. 🔥🔥🔥
+<br/>
+UI adapted from [@JohannesMilke](https://github.com/JohannesMilke/calculator_ui_example) and it has been slightly improved and real functionality has been added to app.
+<br/>
+<br/>
+<p align="center">
+  <img src="https://github.com/hicte/light_calculator/blob/main/Screenshot.jpeg" width="500" alt="Screenshot">
+</p>
